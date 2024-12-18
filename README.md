@@ -1,7 +1,9 @@
 # Code Craft
 
+## Live Preview : https://code-crafto.netlify.app/
+
 ## Overview
-Code Craft is a dynamic platform designed to bridge the gap between aspiring developers and real-world coding challenges. The project provides an engaging and interactive experience, encouraging users to enhance their coding skills through problem-solving, tutorials, and community engagement.
+Code Craft is an educational platform offering detailed information about Graduation, Post-Graduation, and Master’s Degree programs. The website features university details, galleries showcasing campus life, and authentic student testimonials. It also includes a fully functional Contact Us form for inquiries. Built with ReactJS, HTML, CSS, and JavaScript, Code Craft provides an interactive and engaging user experience for students exploring higher education options.
 
 ## Features
 - **Interactive Coding Challenges:** Solve a variety of coding problems across multiple domains such as algorithms, data structures, and web development.
@@ -10,12 +12,12 @@ Code Craft is a dynamic platform designed to bridge the gap between aspiring dev
 - **Progress Tracking:** Monitor your skill development with personalized dashboards.
 
 ## Tech Stack
-- **Frontend:** ReactJS, HTML, CSS, JavaScript
+-  ReactJS, HTML, CSS, JavaScript
 
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/code-craft.git
+   git clone https://github.com/harshmavlikar/Code-Craft.git
    ```
 2. Navigate to the project directory:
    ```bash
