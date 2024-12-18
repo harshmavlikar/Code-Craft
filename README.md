@@ -49,5 +49,5 @@ Code Craft is a dynamic platform designed to bridge the gap between aspiring dev
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any questions or feedback, please reach out to [your email address].
+For any questions or feedback, please reach out to harshmavlikar@gmail.com.
 
